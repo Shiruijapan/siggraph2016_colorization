@@ -14,3 +14,10 @@ Mac OS Xのデフォルトでは、HOMEに.bashrcを作成してもターミナ�
 .bash_profileに
 source .bashrc
 を記述
+*
+source /Users/shirui/.bashrc
+更加稳妥，原模式以来打开bash窗口的位置。
+
+关于版本问题：
+libpng warning: 
+Application built with libpng-1.4.12 but running with 1.6.36
